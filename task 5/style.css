@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #AAAAAA;
+}
+
+header{
+    margin: 5px 0 20px 5px;
+}
+
+main{
+    width: 75%;
+    height: 36vh;
+    background-color: #FFFD53;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    margin: 0 5px 20px 5px;
+}
+
+.left{
+    width: 613px;
+}
+
+.right{
+    margin-right: 0px;
+    width: 406px;
+}
+
+footer{
+    width: 50%;
+    margin-left: 5px;
+}
+
+.left>h1{
+    margin-bottom: 20px;
+}
+
+ul{
+    margin: 20px 40px ;
+}

@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    width: 100%;
+    background-color: #03C6FE;
+}
+
+main{
+    display: flex;
+}
+
+.box1{
+    width: 20%;
+    height: 80vh;
+    background-color: #B2B2B2;
+}
+
+.box2{
+    width: 80%;
+    height: 80vh;
+    background-color: #FFB001;
+}
+
+.box3{
+    width: 20%;
+    height: 80vh;
+    background-color: #8B8B8B;
+}
+
+footer{
+    width: 100%;
+    background-color: #37D13A;
+}
